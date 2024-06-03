@@ -1,8 +1,3 @@
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
 # Monte Carlo for Street Fighter 6 tournament duration
 
 This little project aims to help Street Fighter 6 tournament
