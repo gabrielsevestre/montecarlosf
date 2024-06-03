@@ -20,7 +20,7 @@ We provide tools to compute the average duration of a tournament
 in each format, as well as tools to compute the duration
 between two phases, for example, between from top 512 to top 64.
 
-The duration $$X$$ of each game is simulated by a normal variable:
+The duration $X$ of each game is simulated by a normal variable (values are seconds):
 
 $$ X \sim \mathcal{N}(35, 10) $$
 
